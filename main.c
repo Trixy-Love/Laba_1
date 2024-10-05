@@ -2,5 +2,6 @@
 
 int main(void)
 {
-    printf("Hello world!");
+    printf("Hello, world! Im gay");
+    return 0;
 }
